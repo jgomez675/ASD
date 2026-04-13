@@ -1,0 +1,3 @@
+A -> a B C
+B -> b bas | big C boss
+C -> ε | c
